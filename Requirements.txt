@@ -1,0 +1,7 @@
+TensorFlow
+NumPy, Pandas
+OpenCV
+Streamlit
+gdown
+VS Code
+GitHub
